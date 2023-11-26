@@ -71,6 +71,10 @@ The model is compiled with the Adam optimizer and Mean Squared Error loss functi
 
 The trained model's performance is evaluated using RMSE and R² score. The visualization of the actual vs. predicted demands is provided to assess the model's predictive capabilities visually.
 
+## License
+
+This project is open-sourced under the MIT license.
+
 ## Contributing
 
 Contributions to this project are welcome. You can suggest improvements to the code, propose new visualizations, or enhance the model's performance.
